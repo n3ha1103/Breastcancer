@@ -148,8 +148,6 @@ matplotlib
 seaborn
 jupyter
 
-```
-
 ---
 
 
